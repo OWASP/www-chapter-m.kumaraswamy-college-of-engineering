@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Barathkumar Karuppanannan](mailto:barathkumar.karuppanannan@owasp.org)
+* [Gowtham Muruganantharaj](mailto:gowtham.muruganantharaj@owasp.org)
+* [Jeyganesh  Kumar](mailto:jeyganesh.kumar@owasp.org)
