@@ -24,6 +24,7 @@ If you like to speak on our upcoming events, Kindly mail us
 [Barathkumar Karuppannan](mailto:barathkumar.karuppanannan@owasp.org)
 [Gowtham Muruganantharaj](mailto:gowtham.muruganantharaj@owasp.org)
 
+
 **Email Format :**
 
 Speaker name
