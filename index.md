@@ -21,8 +21,8 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 ## Speakers
 If you like to speak on our upcoming events, Kindly mail us
 
-Barathkumar Karuppannan(mailto:barathkumar.karuppanannan@owasp.org)
-Gowtham Muruganantharaj(mailto:gowtham.muruganantharaj@owasp.org)
+[Barathkumar Karuppannan](mailto:barathkumar.karuppanannan@owasp.org)
+[Gowtham Muruganantharaj}(mailto:gowtham.muruganantharaj@owasp.org)
 
 **Email Format :**
 
