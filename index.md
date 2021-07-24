@@ -1,14 +1,14 @@
 ---
-
 layout: col-sidebar
-title: OWASP M.Kumaraswamy College of Engineering
+title:  OWASP M.Kumaraswamy College of Engineering
 tags: Karur M.Kumaraswamy College of Engineering
-region: Asia
-meetup-group:owasp-m.kumaraswamy-college-of-engineering
+meetup-group: owasp-m.kumaraswamy-college-of-engineering
+region: Asia 
 
 ---
 
 ## Welcome
+
 OWASP M.Kumaraswamy College of Engineering was founded in July,2021. We organise Meetups, Webinar and Conferences. All these event are open, anyone who is interest can participate. We promote on Secure Application Development and share knowleadge on Cyber Security. Join our mission to make Cyber Space a Better Place!
 
 ## Participation
@@ -39,5 +39,5 @@ Abstract of the presentation
 Presentation time required
 
 ##  For Events and updates
-Keep regularly checking our Official meetup: https://www.meetup.com/owasp-m-kumaraswamy-college-of-engineering/
+Keep regularly checking our [Official meetup M.Kumaraswamy college of Engineering](https://www.meetup.com/owasp-m-kumaraswamy-college-of-engineering/)
 
