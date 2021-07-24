@@ -21,23 +21,24 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 ## Speakers
 If you like to speak on our upcoming events, Kindly mail us
 
-[Barathkumar Karuppannan](mailto:barathkumar.karuppanannan@owasp.org)
-[Gowtham Muruganantharaj](mailto:gowtham.muruganantharaj@owasp.org)
+* [Barathkumar Karuppannan](mailto:barathkumar.karuppanannan@owasp.org)
+* [Gowtham Muruganantharaj](mailto:gowtham.muruganantharaj@owasp.org)
 
 
 **Email Format :**
 
-Speaker name
-Job Role
-Company / Organization
-Country.
-Email ID
-Contact Number
-Speaker Profile
-Presentation Details
-Name / Title of the Presentation
-Abstract of the presentation
-Presentation time required
+- Speaker name
+- Job Role
+- Company / Organization
+- Country.
+- Email ID
+- Contact Number
+- Speaker Profile
+- Presentation Details
+    - Name / Title of the Presentation
+    - Abstract of the presentation
+    - Presentation time required
+
 
 ##  For Events and updates
 Keep regularly checking our [Official meetup M.Kumaraswamy college of Engineering](https://www.meetup.com/owasp-m-kumaraswamy-college-of-engineering/)
