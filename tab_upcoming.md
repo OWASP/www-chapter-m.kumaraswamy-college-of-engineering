@@ -13,3 +13,7 @@ tags: M.kumaraswamy college of Engineering OWASP chapter
 | Date/ Time           | Platform    | Link                              |    Speaker |
 | :---                 |    :----:   |                                         ---: |    ---: |
 | 11 Aug, 2021 - 5 PM  | Google Meet |   [Click Here](meet.google.com/wpp-tnrv-hoz) | Monish Kumar |
+
+
+
+{% include chapter_events.html group=page.meetup-group %}
