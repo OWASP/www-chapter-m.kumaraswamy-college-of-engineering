@@ -40,6 +40,15 @@ If you like to speak on our upcoming events, Kindly mail us
     - Presentation time required
 
 
+## Upcoming Events
+
+
+| Date/ Time           | Platform    | Link                              |    Speaker |
+| :---                 |    :----:   |                                         ---: |    ---: |
+| 11 Aug, 2021 - 5 PM  | Google Meet |   [Click Here](meet.google.com/wpp-tnrv-hoz) | Monish Kumar |
+
+
+
 ##  For Events and updates
 Keep regularly checking our [Official meetup M.Kumaraswamy college of Engineering](https://www.meetup.com/owasp-m-kumaraswamy-college-of-engineering/)
 
