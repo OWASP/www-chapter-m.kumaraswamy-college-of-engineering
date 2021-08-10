@@ -45,7 +45,7 @@ If you like to speak on our upcoming events, Kindly mail us
 
 | Date/ Time           | Platform    | Link                              |    Speaker |
 | :---                 |    :----:   |                                         ---: |    ---: |
-| 11 Aug, 2021 - 5 PM  | Google Meet |   [Click Here](meet.google.com/wpp-tnrv-hoz) | Monish Kumar |
+| 13 Aug, 2021 - 5 PM  | Google Meet |   [Click Here](meet.google.com/wpp-tnrv-hoz) | Monish Kumar |
 
 
 
