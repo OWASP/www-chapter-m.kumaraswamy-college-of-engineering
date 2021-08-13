@@ -47,7 +47,7 @@ If you like to speak on our upcoming events, Kindly mail us
 | :---                 |    :----:   |                                         ---: |    ---: |
 | 13 Aug, 2021 - 5 PM  | Google Meet |   [Click Here](meet.google.com/wpp-tnrv-hoz) | Monish Kumar |
 
-
+{% include chapter_events.html group=page.meetup-group %}
 
 ##  For Events and updates
 Keep regularly checking our [Official meetup M.Kumaraswamy college of Engineering](https://www.meetup.com/owasp-m-kumaraswamy-college-of-engineering/)
