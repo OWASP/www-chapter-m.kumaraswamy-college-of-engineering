@@ -40,7 +40,7 @@ If you like to speak on our upcoming events, Kindly mail us
     - Presentation time required
 
 
-## Upcoming Events
+## Past Events
 
 
 | Date/ Time           | Platform    | Link                              |    Speaker |
