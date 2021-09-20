@@ -1,6 +1,6 @@
 ---
 layout: col-sidebar
-title:  OWASP M.Kumaraswamy College of Engineering
+title:  OWASP M.Kumaraswamy College of Engineering - Student Chapter
 tags: Karur M.Kumaraswamy College of Engineering
 meetup-group: owasp-m.kumaraswamy-college-of-engineering
 region: Asia 
